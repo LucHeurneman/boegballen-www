@@ -53,3 +53,12 @@ comments: false
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Rick Jacobs">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Siem Bollen">}}
 {{< /gallery >}}
+
+## bijballen
+{{< gallery hover-effect="none" caption-effect="none" >}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 1">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 2">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 3">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 4">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 5">}}
+{{< /gallery >}}
