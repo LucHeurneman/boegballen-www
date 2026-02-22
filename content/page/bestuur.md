@@ -7,7 +7,7 @@ comments: false
 ## Huidig bestuur
 ### XIe Bestuur
 
-![XeBestuur](/img/bestuur/BestuurX.JPG)
+![XeBestuur](/img/bestuur/BestuurXI.JPG)
 Praeses: Thom Tavenier\
 Abactis: Stef Nijenhuis\
 Quaestor: Thomas Hermsen
